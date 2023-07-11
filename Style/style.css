@@ -30,6 +30,19 @@ body {
 	border-left: solid 1px;
 	border-right: solid 1px;
 }
+
+.Center div {
+	border-bottom: #888 solid 1px;
+}
+
+.Center div:last-child {
+	border-bottom: solid 0px;
+}
+
+.Center div *:last-child {
+	margin-bottom: 16px;
+}
+
 .Center iframe {
 	width: 50%;
 	aspect-ratio: 1/0.7;

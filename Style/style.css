@@ -32,7 +32,7 @@ body {
 }
 
 .Center div {
-	border-bottom: solid 1px;
+	border-bottom: #888 solid 1px;
 }
 
 .Center div:last-child {

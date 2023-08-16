@@ -61,6 +61,9 @@ body {
 	top: 10px;
 	z-index: 10;
 }
+.banner {
+  width: 30%;
+}
 
 footer {
     font-size: 80%;
